@@ -1,5 +1,14 @@
+com/bbj/sfgpetclinic/services/map/VetServiceMap.class
+com/bbj/sfgpetclinic/services/VetService.class
 com/bbj/sfgpetclinic/model/Pet.class
-com/bbj/sfgpetclinic/model/Person.class
+com/bbj/sfgpetclinic/services/map/PetServiceMap.class
+com/bbj/sfgpetclinic/services/OwnerService.class
 com/bbj/sfgpetclinic/model/Vet.class
-com/bbj/sfgpetclinic/model/Owner.class
+com/bbj/sfgpetclinic/services/CrudService.class
+com/bbj/sfgpetclinic/services/PetService.class
 com/bbj/sfgpetclinic/model/PetType.class
+com/bbj/sfgpetclinic/services/map/OwnerServiceMap.class
+com/bbj/sfgpetclinic/model/BaseEntity.class
+com/bbj/sfgpetclinic/model/Person.class
+com/bbj/sfgpetclinic/model/Owner.class
+com/bbj/sfgpetclinic/services/map/AbstractMapService.class
